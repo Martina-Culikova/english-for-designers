@@ -1,8 +1,7 @@
 
 # Martina Čulíková
 
-Martina Čulíková (1998* Bratislava) is a Slavic multimedia artist focusing on digital collage and photography.
-Based on her linguistic and visual studies, her work represents an observation and a reflection of reality and cultural patterns of human nature, forming a connection between the concept and the visual.
+### Martina Čulíková (1998* Bratislava) is a Slavic multimedia artist focusing on digital collage and photography. Based on her linguistic and visual studies, her work represents an observation and a reflection of reality and cultural patterns of human nature, forming a connection between the concept and the visual.
 
 - [Artwork](https://martina-culikova.github.io/english-for-designers/01-artwork/index)
 
