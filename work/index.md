@@ -1,3 +1,6 @@
+[Home](index.md)
+[About](about.md)
+
 # Artwork
 
 Based on my studies in both linguistics and visual arts, my artistic language rapresents observation and reflection of human reality, finding a comprehension in the spectrum of human perspectives developing within the context of the Anthropocene. 
