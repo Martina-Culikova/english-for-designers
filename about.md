@@ -1,3 +1,6 @@
+[Home](index.md)
+[Artwork](work/index.md)
+
 # About
 
 Martina Čulíková (1998* Bratislava) is a Slavic multimedia artist focusing on digital collage and photography.
