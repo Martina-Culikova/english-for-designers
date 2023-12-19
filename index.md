@@ -5,10 +5,10 @@
 
 - [Artwork](https://martina-culikova.github.io/english-for-designers/work/index)
 
-- [About](https://martina-culikova.github.io/english-for-designers/02-about/index)
+- [About](https://martina-culikova.github.io/english-for-designers/about.md)
 
-- [Reflection](https://martina-culikova.github.io/english-for-designers/02-reflection/index)
+- [Reflection](https://martina-culikova.github.io/english-for-designers/reflection.md)
 
-- [Contact](https://martina-culikova.github.io/english-for-designers/02-contact/index)
+- [Contact](https://martina-culikova.github.io/english-for-designers/contact.md)
 
 ![_JMT1912](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/b559d893-2bb8-4174-a33d-dda0a98d1045)
