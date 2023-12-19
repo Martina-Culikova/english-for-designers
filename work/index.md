@@ -7,3 +7,4 @@ By adding a movement to the collage, i started to create collage animation video
 
 [Portfolio](https://app.milanote.com/1RajP91Sm8NJ1D?p=WDzG984pNOt)
 
+![7](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/d96d2cad-4827-41af-88ec-cf0e524bc823)
