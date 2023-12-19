@@ -1,4 +1,4 @@
-# english-for-designers
+
 # Martina Čulíková
 
 - [Artwork](https://martina-culikova.github.io/english-for-designers/01-artwork/index)
