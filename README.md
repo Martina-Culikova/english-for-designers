@@ -9,4 +9,4 @@
 
 - [Contact](https://martina-culikova.github.io/english-for-designers/02-contact/index)
 
-- ![portret](http://_JMT1912.jpg)
+- ![portret](http://_JMT1912.png)
