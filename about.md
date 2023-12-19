@@ -17,22 +17,18 @@ Collage happend to work as a reflection, as an artistic medium that embodies the
 
 In my work, I prefer asking questions more than finding answers...
 
+___
 
 **Exhibitions**
 
 Prague Photo Week 2023
-Clam-Gallas Palace, Praha
 
 NáplavKKa Festival 2023
-Rašínovo nábřeží, Praha 
-
+ 
 Prague Photo Week 2022
-Palace of Hrzan de Harasov, Praha
 
 NáplavKKa Festival 2022
-Rašínovo nábřeží, Praha	
 			
 Art for Ukraine Event 2022
-Kasárna Karlín, Praha
 
 
