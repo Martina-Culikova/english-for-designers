@@ -1,10 +1,12 @@
 # Year in Review
 
-Throughout this year, I've noticed a repetitive pattern in my response to the general question of "How´s everything?“. My constant answer has been: "Intensive."
+Throughout this year, I've noticed a repetitive pattern in my response to the general question of "How´s everything?“.
+My constant answer has been: "Intensive."
 
 To me, "Intensive" is a neutral term, embodying both positive and negative energy, reflecting our personal perception.
 The way I picture an intensive year is a year full of dynamic moments, “ups and downs”, facing the obstacles, finding time for self-reflection, establishing priorities, focusing on personal and professional growth, enjoying presence of life, keep going, letting go, well.. 
 one big sinusoid of embracing the full spectrum of life.
+
 
 
 
@@ -15,11 +17,13 @@ It worth the lesson we can take from it. It´s a reminder for trusting my inner 
 
 
 
+
 I've noticed a tendency of mine, to navigate through life without acknowledging the impact of experiences on my mindset and character. Thankfully, my personal calendar serves as a reminder of my growth and evolution over time.
 A year ago, I moved to a calm place where I currently live and made a decision to stay focused on my personal projects. Since then, my life has taken a turn for the better. I've regained love for what I do.
 One profound realization I've had is that saying "no" to external pressures is saying "yes" to myself.
 I've come to understanding that an endless contemplation without taking action only leads to an inner frustration.
 As well as endless seeking for perfection, that is never going to happen (in my eyes) and leads me only to stagnation. Therefore, I´ve been practicing discipline and letting myself to focus on enjoying the process. While it may take me some time to get into that state of mind, once I'm immersed in that process, I find myself in a state of flow.
+
 
 
 
