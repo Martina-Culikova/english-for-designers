@@ -10,6 +10,10 @@
 - [One Word](oneword.md)
 
 - [Voice, Tone and Style](voicetonestyle.md)
+
+- [Thesis Lightning Talk](thesislightningtalk.md)
+ 
+- [Storytelling](storytelling.md)
   
 - [Year in Review](yearinreview.md)
 
