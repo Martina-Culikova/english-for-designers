@@ -8,6 +8,8 @@
 - [About](about.md)
 
 - [One Word](oneword.md)
+
+- [Voice, Tone and Style](voicetonestyle.md)
   
 - [Year in Review](yearinreview.md)
 
