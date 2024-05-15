@@ -1,5 +1,5 @@
-# Voice Tone and style
+# Voice, Tone and Style
 
-## Voice:
+## Voice
 
-**Open:** 
+**Harmonic** 
