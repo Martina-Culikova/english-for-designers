@@ -1,4 +1,4 @@
-# Year in review
+# Year in Review
 
 Throughout this year, I've noticed a repetitive pattern in my response to the general question of "How´s everything?“. My constant answer has been: "Intensive."
 
