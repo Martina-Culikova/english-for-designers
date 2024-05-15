@@ -1,7 +1,7 @@
 [Home](index.md)
 [Artwork](work/index.md)
 
-# First Impression
+# About
 
 Martina Čulíková (1998* Bratislava) is a Slavic multimedia artist focusing on digital collage and photography.
 Based on her linguistic and visual studies, her work represents an observation and a reflection of reality and cultural patterns of human nature, forming a connection between the concept and the visual.
