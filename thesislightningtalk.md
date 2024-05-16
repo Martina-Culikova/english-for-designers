@@ -40,6 +40,7 @@ The content of the practical part of the bachelor's thesis is created in relatio
 
 
 **Am I ?**
+
 The name Am I  consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".
 
 
