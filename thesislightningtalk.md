@@ -36,11 +36,11 @@ The theoretical foundations of the subject are rooted in the history of visual a
 
 **Practical part**
 
-The content of the practical part of the bachelor's thesis is created in relation to the above description of the theoretical part. The focus of the thesis is on the aspects of contemporary identity of the society, which moves at the interface of the physical and digital spheres. The thesis is a reflection on the ongoing cycle of cellular and data renewal of the human aspect.
+The content of the practical part of the bachelor's thesis is created in relation to the above description of the theoretical part. The focus of the thesis is on the aspects of contemporary identity of the society, which moves at the interface of the physical and digital spheres. The thesis is a reflection on the ongoing cycle of cellular and data renewal of the human aspect.The work results in a series of seven digital collages, containing symbolistic meaning. The series called Am I reflect on the fragments of the reality of contemporary times.
 
 
 **Am I ?**
-The work results in a series of seven digital collages, containing symbolistic meaning. The series called Am I reflect on the fragments of the reality of contemporary times.The name Am I  consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".
+The name Am I  consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".
 
 
 
