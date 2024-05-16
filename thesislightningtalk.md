@@ -1,5 +1,7 @@
 # Thesis Lightning Talk
 
+**Abstract**
+
 The bachelor thesis, Fragments of Reality: Collage as a Reflection of Humankind, presents
 an insight into the realm of the identity of collage as an artistic medium that embodies
 the principle of human perception, of a seemingly homogeneous reality, by combining disparate elements into a new context.  
@@ -11,8 +13,7 @@ of the society, at the interface of physical and digital environment, human and 
 are then merged into a series of digital collages that, both technically and conceptually, reflects the author's reflection of the contemporary society.
 
 
-Fragments of reality.
-Perception of reality, changing under the observer's point of view.
+**Fragments of Reality: Collage as a Reflection of Society**
 
 The bachelor thesis, Fragments of Reality: Collage as a Reflection of Society, explores collage as an artistic medium in terms of its relationship to the society in which it is created.
 The choice of the main motive of the thesis, stems from the author's personal fascination with the human perception of reality. The way in which we make meaning, whether on a personal or collective level, in a seemingly random grouping of fragments.
