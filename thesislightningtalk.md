@@ -40,12 +40,16 @@ The theoretical foundations of the subject are rooted in the history of visual a
 
 **Practical part**
 
-The content of the practical part of the bachelor's thesis is created in relation to the above description of the theoretical part. The focus of the thesis is on the aspects of contemporary identity of the society, which moves at the interface of the physical and digital spheres. The thesis is a reflection on the ongoing cycle of cellular and data renewal of the human aspect.The work results in a series of seven digital collages, containing symbolistic meaning. The series called Am I reflect on the fragments of the reality of contemporary times.
+The content of the practical part of the bachelor's thesis is created in relation to the above description of the theoretical part. The focus of the thesis is on the aspects of contemporary identity of the society, which moves at the interface of the physical and digital spheres. The thesis is a reflection on the ongoing cycle of cellular and data renewal of the human aspect.The work results in a series of seven digital collages, called  Am I, containing symbolic meaning. The name Am I  consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".The series observe fragments of reality of contemporary times, when human life regenerate itself both in a physical and digital sphere.
+
+![Screenshot (1675)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/28269568-ea7d-49bf-8915-df291260e12e)
 
 
-**Am I ?**
-
-The name Am I  consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".
+![Screenshot (1676)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/0da88e6b-b904-40e6-b130-d9a3f4f42648)
 
 
+![Screenshot (1677)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/a9228674-fd8e-4402-88a6-3af359dd61c6)
+
+
+![Screenshot (1678)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/735215f6-25bd-48cf-8984-1f501f3728ab)
 
