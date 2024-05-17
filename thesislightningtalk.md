@@ -55,3 +55,4 @@ The content of the practical part of the bachelor's thesis is created in relatio
 
 ![Screenshot (1678)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/735215f6-25bd-48cf-8984-1f501f3728ab)
 
+![Screenshot (1592)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/98a7fd36-0234-4661-8ba1-03cbdf530739)
