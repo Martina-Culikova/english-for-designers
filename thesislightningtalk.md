@@ -14,7 +14,7 @@ are then merged into a series of digital collages that, both technically and con
 
 <br>
 <div align="center">
-<img src="../images/Screenshot (1674).png" width="800">
+![Uploading Screenshot (1674).png…]()
 </div> 
 
 
