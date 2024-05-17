@@ -19,7 +19,7 @@ are then merged into a series of digital collages that, both technically and con
  
 
 
-### Fragments of Reality: Collage as a Reflection of Humankind
+### Thesis
 
 The bachelor thesis, Fragments of Reality: Collage as a Reflection of Humankind, explores collage as an artistic medium in terms of its relationship to the society in which it is created.
 The choice of the main motive of the thesis, reflects my personal fascination of the human perception of reality. The way in which we make meaning, whether on a personal or collective level, of seemingly random fragments happening in our life.
@@ -54,5 +54,10 @@ The content of the practical part of the bachelor's thesis is created in relatio
 
 
 ![Screenshot (1678)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/735215f6-25bd-48cf-8984-1f501f3728ab)
+
+
+### Installation
+
+The series is installed in a horizontal line, creating the feeling of being part of a never-ending space of collages.
 
 ![Screenshot (1592)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/98a7fd36-0234-4661-8ba1-03cbdf530739)
