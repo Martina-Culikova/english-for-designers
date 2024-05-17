@@ -33,9 +33,7 @@ Are there any limits to it?
 ###  Theoretical part
 
 Interpretation of the selected topic includes an analysis of the collage phenomenon in terms of its definition, the mirroring principle and technological development over time.
-
 The theoretical part is divided into two chapters: Collage as a Reflection, which presents an insight into the sphere of the identity of collage in relation to the society of a certain period of time; and Fragments of Reality, which explores the way in which the human mind constructs its perception of reality.
-
 The theoretical foundations of the subject are rooted in the history of visual art and philosophy, using the symbolism of the socio-cultural context, as well as knowledge from the field of neuroscience. I use available professional sources, publications, or my own testimony.
 
 ### Practical part
