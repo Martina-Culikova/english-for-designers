@@ -42,26 +42,22 @@ The theoretical foundations of the subject are rooted in the history of visual a
 
 The content of the practical part of the bachelor's thesis is created in relation to the above description of the theoretical part.
 The focus of the thesis is on the aspects of contemporary identity of the society, which moves at the interface of the physical and digital spheres.
-The thesis is a reflection on the ongoing cycle of cellular and data renewal of the human aspect.
-The work results in a series of seven digital collages, called  Am I, containing symbolic meaning. The name Am I  consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".
+The thesis is a reflection on the ongoing cycle of cellular and data renewal of the human aspect. The work results in a series of seven digital collages, called  Am I, containing symbolic meaning. The name Am I consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".
 
 #### Am I
 
-The series observe fragments of reality of contemporary times, when human life regenerate itself both in a physical and digital sphere.
+The series observe fragments of reality of contemporary times, times when human life is able to regenerate itself both in a physical and digital sphere.
+
+From the beginning of our physical presence, questions arise about the non-physical. We are the first generation of people whose footprint will remain in digital form after leaving our physical shell. This leads to a crucial consideration: Is there a meeting point between our physical and virtual reality?
+
+The plot of the series unfolds at the imaginary interface between the physical and the digital, within the environment of purgatory. This concept, rooted in christian tradition, is strongly associated with the transition to the afterlife, melting the borders between material and immaterial.
+It is said that over the course of seven years, our body undergoes a complete renewal of cells.
+The symbol of renewal is represented by the motive of the egg, conceived in the context of the present time. The depicted clouds in the environment symbolize a virtual iCloud, rappresenting the eternal repository of our data, our digital cells.
+The main character of the collage is a pregnant figure, not defined by specific features. This unearthly being represents the essence of humanity, the collective consciousness of the whole. The creature embodies Hermaphrodite, a biparental being capable of self-renewal. This symbolizes the birth of a new type of human, capable of regenerating both physical and digital aspects — physical cells and digital data.
+
+A new human capable of eternal return.
+
 Have we reached immortality?
-
-From the beginning of our physical presence, questions arise about the non-physical. the first generation of people whose footprint will remain in digital form after leaving their physical shell is now present in the world. this leads to a crucial consideration: is there a meeting point between our physical and virtual realities?
-
-The plot of the author's ensemble unfolds at the imaginary interface between the physical and the digital, within the environment of purgatory. this concept, rooted in christian tradition, is strongly associated with the transition to the afterlife, bridging the material and immaterial worlds.
-
-
-
-it is said that over the course of seven years, our body undergoes a complete renewal of cells. the symbol of renewal and enduring foundation is represented by the motif of the egg, conceived in the context of the present time. the depicted clouds in the author's environment symbolize a virtual iCloud, signifying the eternal repository of our data, our digital cells.
-
-the main character of the collage is a pregnant figure, not defined by specific features. this superhuman being, through its indeterminacy, represents the essence of humanity, the collective consciousness of the whole. it embodies the hermaphrodite, a biparental being capable of self-impregnation. this symbolizes the birth of a new type of human, capable of regenerating both physical and digital aspects—physical cells and digital data.
-
-this new human is capable of eternal return.
-
 
 
 ![Screenshot (1675)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/28269568-ea7d-49bf-8915-df291260e12e)
