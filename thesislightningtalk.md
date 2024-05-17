@@ -30,7 +30,7 @@ Is there a difference between physical, digital, or AI collage?
 How is the process of creating a collage connected to the creation of a new view of reality?
 Are there any limits to it?
 
-**Theoretical part**
+####  Theoretical part
 
 Interpretation of the selected topic includes an analysis of the collage phenomenon in terms of its definition, the mirroring principle and technological development over time.
 
@@ -38,10 +38,30 @@ The theoretical part is divided into two chapters: Collage as a Reflection, whic
 
 The theoretical foundations of the subject are rooted in the history of visual art and philosophy, using the symbolism of the socio-cultural context, as well as knowledge from the field of neuroscience. I use available professional sources, publications, or my own testimony.
 
-**Practical part**
+#### Practical part
 
 The content of the practical part of the bachelor's thesis is created in relation to the above description of the theoretical part.
-The focus of the thesis is on the aspects of contemporary identity of the society, which moves at the interface of the physical and digital spheres. The thesis is a reflection on the ongoing cycle of cellular and data renewal of the human aspect.The work results in a series of seven digital collages, called  Am I, containing symbolic meaning. The name Am I  consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".The series observe fragments of reality of contemporary times, when human life regenerate itself both in a physical and digital sphere.
+The focus of the thesis is on the aspects of contemporary identity of the society, which moves at the interface of the physical and digital spheres.
+The thesis is a reflection on the ongoing cycle of cellular and data renewal of the human aspect.
+The work results in a series of seven digital collages, called  Am I, containing symbolic meaning. The name Am I  consists of an abbreviation for artificial intelligence "AI" and the self-affirmation question, "Am I?".
+
+#### Am I
+
+The series observe fragments of reality of contemporary times, when human life regenerate itself both in a physical and digital sphere.
+Have we reached immortality?
+
+From the beginning of our physical presence, questions arise about the non-physical. the first generation of people whose footprint will remain in digital form after leaving their physical shell is now present in the world. this leads to a crucial consideration: is there a meeting point between our physical and virtual realities?
+
+The plot of the author's ensemble unfolds at the imaginary interface between the physical and the digital, within the environment of purgatory. this concept, rooted in christian tradition, is strongly associated with the transition to the afterlife, bridging the material and immaterial worlds.
+
+
+
+it is said that over the course of seven years, our body undergoes a complete renewal of cells. the symbol of renewal and enduring foundation is represented by the motif of the egg, conceived in the context of the present time. the depicted clouds in the author's environment symbolize a virtual iCloud, signifying the eternal repository of our data, our digital cells.
+
+the main character of the collage is a pregnant figure, not defined by specific features. this superhuman being, through its indeterminacy, represents the essence of humanity, the collective consciousness of the whole. it embodies the hermaphrodite, a biparental being capable of self-impregnation. this symbolizes the birth of a new type of human, capable of regenerating both physical and digital aspects—physical cells and digital data.
+
+this new human is capable of eternal return.
+
 
 
 ![Screenshot (1675)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/28269568-ea7d-49bf-8915-df291260e12e)
@@ -62,4 +82,3 @@ The series is installed in a horizontal line, making the observers feel as they 
 
 ![Screenshot (1592)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/98a7fd36-0234-4661-8ba1-03cbdf530739)
 
-![Screenshot (1596)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/15ae9d55-dcaa-4eab-9b76-d89651d82b19)
