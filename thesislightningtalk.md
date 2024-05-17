@@ -30,7 +30,7 @@ Is there a difference between physical, digital, or AI collage?
 How is the process of creating a collage connected to the creation of a new view of reality?
 Are there any limits to it?
 
-####  Theoretical part
+###  Theoretical part
 
 Interpretation of the selected topic includes an analysis of the collage phenomenon in terms of its definition, the mirroring principle and technological development over time.
 
@@ -38,7 +38,7 @@ The theoretical part is divided into two chapters: Collage as a Reflection, whic
 
 The theoretical foundations of the subject are rooted in the history of visual art and philosophy, using the symbolism of the socio-cultural context, as well as knowledge from the field of neuroscience. I use available professional sources, publications, or my own testimony.
 
-#### Practical part
+### Practical part
 
 The content of the practical part of the bachelor's thesis is created in relation to the above description of the theoretical part.
 The focus of the thesis is on the aspects of contemporary identity of the society, which moves at the interface of the physical and digital spheres.
