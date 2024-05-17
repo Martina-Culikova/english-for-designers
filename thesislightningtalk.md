@@ -13,7 +13,7 @@ of the society, at the interface of physical and digital environment, human and 
 are then merged into a series of digital collages that, both technically and conceptually, reflects the author's reflection of the contemporary society.
 
 
-![Uploading Screenshot (1674).png…]() 
+![Screenshot (1674)](https://github.com/Martina-Culikova/english-for-designers/assets/148857122/661f50b2-c6db-4f11-9492-47a55305d9a5)
  
 
 
