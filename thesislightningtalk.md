@@ -12,10 +12,9 @@ In the practical part of the work, the author analyses aspects of contemporary i
 of the society, at the interface of physical and digital environment, human and artificial intelligence. Author uses elements of photography, graphics and symbols of the digital environment, which she shapes into multi-layered messages. These elements, fragments, 
 are then merged into a series of digital collages that, both technically and conceptually, reflects the author's reflection of the contemporary society.
 
-<br>
-<div align="center">
-![Uploading Screenshot (1674).png…]()
-</div> 
+
+![Uploading Screenshot (1674).png…]() 
+ 
 
 
 ### Fragments of Reality: Collage as a Reflection of Society
