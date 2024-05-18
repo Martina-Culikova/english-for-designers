@@ -5,7 +5,7 @@
 **Video presentation**
 
 [View Slides](thesislightningtalk.md/Čulíková_Thesis presentation.pdf…)
-
+Čulíková_Thesis presentation.pdf
 ### Abstract
 
 The bachelor thesis, Fragments of Reality: Collage as a Reflection of Humankind, presents
