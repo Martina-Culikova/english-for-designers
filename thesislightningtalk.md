@@ -3,7 +3,7 @@
 ### Thesis Lightning Talk
 
 **Video presentation**
-
+[Watch Video](https://www.youtube.com/watch?v=a3GhE80i318)
 
 ### Abstract
 
