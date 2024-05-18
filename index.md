@@ -13,7 +13,7 @@
 
 - [Thesis Lightning Talk](thesislightningtalk.md)
 
-- [Thesis Slides](Čulíková_Thesis presentation.pdf)
+- [Čulíková_Thesis presentation.pdf]
  
 - [Storytelling](storytelling.md)
   
