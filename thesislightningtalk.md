@@ -4,7 +4,7 @@
 
 **Video presentation**
 
-[View Slides](thesislightningtalk/Čulíková_Thesis presentation.pdf…)
+[View Slides](thesislightningtalk.md/Čulíková_Thesis presentation.pdf…)
 
 ### Abstract
 
