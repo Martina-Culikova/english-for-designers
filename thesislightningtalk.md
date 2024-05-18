@@ -4,7 +4,8 @@
 
 **Video presentation**
 [Uploading Čulíková_Thesis presentation.pdf…]()
-- [View Slides](assets/thesis.pdf)
+- [View Slides](assets/[Uploading Čulíková_Thesis presentation.pdf…]()
+)
 
 ### Abstract
 
