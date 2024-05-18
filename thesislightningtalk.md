@@ -1,6 +1,8 @@
 # Thesis Lightning Talk
 
 **Video presentation**
+**Pdf Slides**
+
 
 ## Fragments of Reality: Collage as a Reflection of Humankind
 
