@@ -12,8 +12,6 @@
 - [Voice, Tone and Style](voicetonestyle.md)
 
 - [Thesis Lightning Talk](thesislightningtalk.md)
-
-- [Čulíková_Thesis presentation.pdf]
  
 - [Storytelling](storytelling.md)
   
