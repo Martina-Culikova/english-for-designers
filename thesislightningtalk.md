@@ -3,9 +3,8 @@
 ### Thesis Lightning Talk
 
 **Video presentation**
+[Uploading Čulíková_Thesis presentation.pdf…]()
 
-- [View Slides]([Uploading Čulíková_Thesis presentation.pdf…]()
-)
 
 ### Abstract
 
