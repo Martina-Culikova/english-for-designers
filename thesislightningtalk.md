@@ -4,7 +4,8 @@
 
 **Video presentation**
 
-**Slides**
+- [View Slides]([Uploading Čulíková_Thesis presentation.pdf…]()
+)
 
 ### Abstract
 
