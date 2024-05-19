@@ -3,7 +3,9 @@
 ## Becoming Homo Techno
 
 This is an anthropocentric story about our species. Home Sapiens.
+
 Homo Sapiens had a dream to become immortal.
+
 To preserve the vibrant being, protect him from the age-related cellular decline of vital physiological functions essential for survival and reproduction – aging.
 
 **Pursueing immortality**
