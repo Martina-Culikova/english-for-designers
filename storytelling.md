@@ -6,7 +6,7 @@ This is an anthropocentric story about our species. Home Sapiens.
 Homo Sapiens had a dream to become immortal.
 To preserve the vibrant being, protect him from the age-related cellular decline of vital physiological functions essential for survival and reproduction – aging.
 
-**Pursueing immortality**
+**Pursuing immortality**
 
 From the beginning of our physical presence, questions begin to arise about the non-physical one.
 We have been preoccupied with the idea of eternal life ever since. Although the desire for physical immortality is yet unfulfilled, the desire to gain eternal life, however impossible it may seem, has been partially attained. 
