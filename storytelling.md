@@ -1,6 +1,6 @@
 # Storytelling
 
-https://www.youtube.com/watch?v=I8eVk9B7l-c
+[Watch Video](https://www.youtube.com/watch?v=I8eVk9B7l-c)
 
 ## Becoming Homo Techno
 
