@@ -1,5 +1,7 @@
 # Storytelling
 
+https://www.youtube.com/watch?v=I8eVk9B7l-c
+
 ## Becoming Homo Techno
 
 This is an anthropocentric story about our species. Home Sapiens.
